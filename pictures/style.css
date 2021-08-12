@@ -202,14 +202,17 @@ Home
     text-align: justify;
     color: seashell;
 }
+.aboutmesecond button{
+    color: floralwhite;
+    background-color: rgb(11, 11, 126);
+    font-weight: bold;
+}
 /* portfilio +  projects*/
 
 #project{
-    height: 100vh;
-   
-    
-    
+    height: 100vh;  
 }
+
 #project .project-item{
     position: relative;
     overflow:hidden;
@@ -325,4 +328,9 @@ Home
     background: #c4d4e0;
     color: white;
     border-radius: 50%;
+}
+.fa{
+    border-radius: 50;
+    color: #c4d4e0;
+  
 }
