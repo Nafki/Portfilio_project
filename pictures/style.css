@@ -41,6 +41,7 @@ h3 {
     font-weight: 200;
 }
 */
+
 p {
     color:seashell;
     font-size: 16px;
@@ -50,7 +51,7 @@ p {
 }
 
 /*
-BUTTONS
+button
 */
 .section-btn{
     margin: 32px 0 0 0;
@@ -260,22 +261,43 @@ Home
     transform:scale(1.1);
 }
 #htmlimage{
-    width: 50%;
-    height: 50%;
+    width: 40%;
+    height: 54%;
 }
 
 #stat{
-    width: 50%;
-    height: 50%;
+    width: 40%;
+    height: 40%;
 } 
 #apione{
-    width: 50%;
-    height: 50%;
+    width: 40%;
+    height: 40%;
 }
 #apitwo{
     width: 40%;
     height: 40%;
 }
+
+#blueserver{
+    width: 40%;
+    height: 40%;
+}
+
+#client{
+    width: 40%;
+    height: 40%;
+}
+
+#polar{
+    width: 50%;
+    height: 50%;
+}
+
+#tree{
+    width: 40%;
+    height: 40%;
+}
+
 .porfiloall{
     width: 20%;
     height: 20%;
@@ -332,5 +354,5 @@ Home
 .fa{
     border-radius: 50;
     color: #c4d4e0;
-  
+
 }
